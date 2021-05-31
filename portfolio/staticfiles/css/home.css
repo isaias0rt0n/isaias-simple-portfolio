@@ -1,0 +1,43 @@
+body{
+  background: #f2f2f2!important;
+}
+
+#profile-box{
+  text-align: center;
+}
+
+#profile-photo {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.lin {
+  text-decoration: none;
+  color: #d1b600;
+}
+.lin:hover{
+  color: #78b80d;
+}
+
+.social-links{
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+.social-links .bi{
+  margin: 1em;
+}
+.courses li{
+  padding-top: 5px;
+  list-style-type: none;
+}
+.courses a{
+  text-decoration: none;
+  color: #506277;
+}
+.courses a:hover{
+  color: #78b80d;
+}
